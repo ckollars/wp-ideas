@@ -9,8 +9,9 @@ Should have a list of plugins used and a script that downloads the latest versio
     - Repeater
 - regenerate thumbnails
 - some sort of custom post type plugin [types](https://wordpress.org/plugins/types/)
-- a slider plugin of types (maybe custom)
+- a slider plugin of post types (maybe custom)
 - Most want an SEO plugin
+- Gravity forms
 
 Need a list of go to javascript libraries
 - jquery (still easiest to use)
